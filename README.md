@@ -24,6 +24,7 @@ into category-based subfolders such as Images, Documents, Audio, and Archives.
 python organizer.py <folder_path> --dry-run
 ---
 
+
 ## Other Python Projects in This Repository
 
 This repository also contains a few additional Python projects created as part of my learning and practice journey.
